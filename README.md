@@ -40,3 +40,5 @@ payer:partyIdType | (string)| The type of party ID for the payer.(MSISDN/ALIAS/E
 payer:partyId | (string) | The ID of the payer.
 payerMessage | (string)| Message from the payer.
 payeeNote | (string) | Note for the payee.
+
+Download and run the Notebook "Debit Request.ipynb"
